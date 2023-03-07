@@ -28,6 +28,35 @@ https://sforce.co/3JfkykP</li>
   https://sforce.co/3YnG23m</li>
 <li>Free Trial Orgs
   https://sforce.co/3mtyq28</li>
-
+<li>Code Samples & SDks 
+    https://sforce.co/3kKrbm3</li>
 </ol>
+
+### I wish I knew how important connections are ###
+
+<ol>
+<li>Salesforce Developers & Local Groups
+  https://sforce.co/3ZFXjWt & https://bit.ly/2ONRmGm</li>
+<li>Build your portfolio on SF
+  https://sforce.co/3yd5IoH (trailhead module)</li>
+<li>Resume Writing Strategies
+  https://sforce.co/3JpP9fX (trailhead module)</li>
+<li>Trailhead Coach
+  https://sforce.co/3KVf7ZP (personalized training)</li>
+<li>Career Resources
+  https://bit.ly/3ycC2s3 (video series)</li>
+</ol>
+
+### I wish I knew how quickly my career advanced when I started helping others ###
+
+<ol>
+<li>Trailblazer Mentorship
+  https://sforce.co/3F4EOU2</li>
+<li>
+<li>Trailblazer Connect
+    https://sforce.co/3myIOFG</li>
+<li>Impact Exchange
+    https://sforce.co/3ZxKsX2</li>
+</ol>
+
 
