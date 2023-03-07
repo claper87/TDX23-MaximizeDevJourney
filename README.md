@@ -52,7 +52,6 @@ https://sforce.co/3JfkykP</li>
 <ol>
 <li>Trailblazer Mentorship
   https://sforce.co/3F4EOU2</li>
-<li>
 <li>Trailblazer Connect
     https://sforce.co/3myIOFG</li>
 <li>Impact Exchange
