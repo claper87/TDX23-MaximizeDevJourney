@@ -1,4 +1,4 @@
-# TDX23-MaximizeDevJourney
+# TDX23 - Maximize your Salesforce Developer Journey
 
 ### I wish I knew where I could find more practice exercises to do ###
 
