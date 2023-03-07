@@ -3,10 +3,7 @@
 ### I wish I knew where I could find more practice exercises to do ###
 
 <ol>
-<li> 
-__SFDC99.com__ <br/>
-Apex tutorials for point-and-click admins
-<https://bit.ly/41L0NJh>
+<li> SFDC99.com Apex tutorials for point-and-click admins https://bit.ly/41L0NJh
 </li>
 
 <li>Salesforce Fundamentals
