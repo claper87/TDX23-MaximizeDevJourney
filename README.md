@@ -19,3 +19,15 @@ A trailhead superbadge that test your knowledge on complex business logic
 https://sforce.co/3JfkykP</li>
 </ol>
 
+### I wish I knew where to access pre-built demos to get started quickly ###
+
+<ol>
+<li>Beginner Administrator 
+  https://sforce.co/2TlLrXU</li>
+<li>Soft Skills
+  https://sforce.co/3YnG23m</li>
+<li>Free Trial Orgs
+  https://sforce.co/3mtyq28</li>
+
+</ol>
+
